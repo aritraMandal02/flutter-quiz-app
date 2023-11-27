@@ -30,7 +30,7 @@ class QuestionsSummary extends StatelessWidget {
                               ((questionData['question_index'] as int) + 1)
                                   .toString(),
                               style: const TextStyle(
-                                  color: Colors.black87,
+                                  color: Color.fromARGB(224, 58, 57, 57),
                                   fontSize: 17,
                                   fontWeight: FontWeight.bold),
                             ),
